@@ -1,0 +1,20 @@
+{
+  "name": "simple-node-azure-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tishtakalita/simple-node-azure-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tishtakalita/simple-node-azure-app/issues"
+  },
+  "homepage": "https://github.com/tishtakalita/simple-node-azure-app#readme",
+  "description": ""
+}
